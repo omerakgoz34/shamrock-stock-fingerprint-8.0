@@ -11,7 +11,7 @@ SafetyNet'i geçerek de Netflix ve banka uygulamaları gibi sistem modifikasyonu
 * Bazı ROM'larda Google Play Hizmetleri tarafından sistem güncellemesinin tetiklenmesine neden olabilir fakat sistemi asla güncelleyemez. Sadece gitmeyen sinir bozucu bir bildirim bırakır :p
 
 ## İndirme
-* [v1.0.0](https://github.com/omerakgoz34/shamrock-stock-fingerprint-8.0/releases/download/v1.0.0/shamrock-stock-fingerprint-8.0-v1.0.0.zip)
+* [v1.0.0](https://github.com/omerakgoz34/shamrock-stock-fingerprint-8.0/releases/download/v1.0.0/shamrock-stock-fingerprint-8.0_v1.0.0.zip)
 
 ## Kurulum
 1. Magisk'in Hide özelliğini açıp MagiskHide menüsünden com.android.vending, com.google.android.gms ve com.google.android.gsf paket adını içeren bütün uygulamar için gizlemeyi aktif edin.
