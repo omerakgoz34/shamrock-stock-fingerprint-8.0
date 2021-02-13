@@ -1,5 +1,5 @@
-# Stock Fingerprint for Shamrock
-Shamrock cihazları için Stock Fingerprint ayarlama modülü.  
+# Stock Fingerprint for Shamrock 8.0
+Shamrock cihazları için Stock Fingerprint ayarlama modülü. Sadece Android 7.1 rom'lar içindir.  
 Bu Magisk modülü sayesinde Stock ROM Fingerprint'e(cihaz imzasına) sahip olabilir ve Google'ın SafetyNet kontrolünden geçebilirsiniz.
 SafetyNet'i geçerek de Netflix ve banka uygulamaları gibi sistem modifikasyonuna sıcak bakmayan uygulamaları sanki orijinal sistemi kullanır gibi kullanabilirsiniz.
 
@@ -11,7 +11,7 @@ SafetyNet'i geçerek de Netflix ve banka uygulamaları gibi sistem modifikasyonu
 * Bazı ROM'larda Google Play Hizmetleri tarafından sistem güncellemesinin tetiklenmesine neden olabilir fakat sistemi asla güncelleyemez. Sadece gitmeyen sinir bozucu bir bildirim bırakır :p
 
 ## İndirme
-* [v1.0.1](https://github.com/omerakgoz34/shamrock-stock-fingerprint/releases/download/v1.0.1/shamrock-stock-fingerprint_v1.0.1.zip)
+* [v1.0.0](https://github.com/omerakgoz34/shamrock-stock-fingerprint-8.0/releases/download/v1.0.0/shamrock-stock-fingerprint-8.0-v1.0.0.zip)
 
 ## Kurulum
 1. Magisk'in Hide özelliğini açıp MagiskHide menüsünden com.android.vending, com.google.android.gms ve com.google.android.gsf paket adını içeren bütün uygulamar için gizlemeyi aktif edin.
