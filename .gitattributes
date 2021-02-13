@@ -1,0 +1,3 @@
+*.prop text eol=lf
+update-binary text eol=lf
+updater-script text eol=lf

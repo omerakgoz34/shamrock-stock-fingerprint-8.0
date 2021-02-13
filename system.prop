@@ -1,0 +1,13 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+ro.product.device=gm5plus_sprout
+ro.product.name=gm5plus
+ro.product.manufacturer=General Mobile
+ro.product.model=GM 5 Plus d
+ro.product.brand=gm
+ro.build.version.security_patch=2018-11-01
+ro.build.flavor=shamrock-user
+ro.build.product=shamrock
+ro.build.fingerprint=gm/gm5plus/gm5plus_sprout:8.0.0/OSR18O/572:user/release-keys
